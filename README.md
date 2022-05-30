@@ -1,6 +1,8 @@
 # wordle-solver
 The goal of this project is to offer an optimal solution to the Wordle Game.
 
+![Wordle](wordle.jpeg)
+
 "Real Words" are actual words that will be used for the daily Wordle.
 "Valid Words" are 5-letter strings that the game will accept as valid guesses.
 
