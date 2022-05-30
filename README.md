@@ -1,5 +1,5 @@
 # wordle-solver
-The goal of this project is to offer an optimal solution to the Wordle Game.
+The goal of this project is to offer an optimal solution to the [Wordle Game](https://www.nytimes.com/games/wordle/index.html).
 
 ![Wordle](wordle.jpeg)
 
